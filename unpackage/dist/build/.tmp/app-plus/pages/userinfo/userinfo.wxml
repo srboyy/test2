@@ -1,0 +1,1 @@
+<form><view class="user-section"><input class="input" placeholder="Leo yo"/></view><view class="user-p"><view class="_p">以英文字母或汉字开头，限4-16个字符，一个汉字为2个字符</view></view><view class="user-section "><button class="uni-btn-submit">确认</button></view></form>

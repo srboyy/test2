@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "丽水现代广场大酒店",
+  "usingComponents": {
+    "rui-date-picker": "/components/rattenking-dtpicker/rattenking-dtpicker"
+  }
+}
